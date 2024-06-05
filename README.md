@@ -1,4 +1,4 @@
-# polygon-chinsese-template
+# polygon-chinese-template
 
 A hack that allowed Polygon to speak Chinese.
 
